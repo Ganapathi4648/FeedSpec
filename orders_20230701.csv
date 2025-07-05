@@ -1,0 +1,3 @@
+order_id,cust_id,order_date,price,product_code
+ORD-100,45,07-01-2023,19.99,abc-123
+ORD-101 ,99,07-01-2023,,def-456
